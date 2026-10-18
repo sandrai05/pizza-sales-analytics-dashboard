@@ -93,8 +93,8 @@ This analysis enables:
 
 ## 🖼️ Dashboard Preview
 
-<img width="1252" height="624" alt="image" src="https://github.com/user-attachments/assets/5fb236a2-bd4b-4850-8d0f-5586e1df04e8" />
-
+![Pizza Sales Analytics Dashboard](Pizza%20Sales%20Dashboard.png)
+  
 ---
 
 ## 📄 Sample SQL Queries
